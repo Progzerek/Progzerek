@@ -1,7 +1,4 @@
 # Progzerek
-
-IT student from Slovakia. I built full-stack projects, but backend is where I like to work.
-
 **Contact:**
 [Discord](https://discord.com/users/997916524666945676)
 ## Stack
