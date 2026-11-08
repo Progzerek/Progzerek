@@ -26,7 +26,3 @@ A NeoForge server manager specifically built for Termux, with Discord integratio
 
 - **Stack:** Rust, Serenity, Tokio
 - **Link:** [Source code](https://github.com/Progzerek/termux-minecraft-manager)
-
-## Activity
-
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Progzerek&theme=dark)](https://git.io/streak-stats)
