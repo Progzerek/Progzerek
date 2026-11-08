@@ -1,27 +1,27 @@
 # Progzerek
 
-IT student in Slovakia. I build full-stack projects, but backend is where I like to work.
+IT student from Slovakia. I build full-stack projects, but backend is where I like to work.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ## Projects
 
 ### ZoneSync
 An Overwolf app that dynamically lowers your music volume while you play CS2.
 
-- **Stack:** TypeScript, HTML, CSS, Overwolf GEP api
-- **Status:** Currently live on [OverWolf.com](https://www.overwolf.com/app/progzerek-zonesync)
+- **Stack:** TypeScript, HTML, CSS, Overwolf GEP API
+- **Status:** Live on [Overwolf](https://www.overwolf.com/app/progzerek-zonesync)
 - **Website:** [Project info](https://progzerek.github.io/zonesync-info/)
 
 ### Minescraft Server Manager
-A neoforge server manager specificaly made for termux, with discord integration
+A NeoForge server manager specifically built for Termux, with Discord integration.
 
-- **Stack:** Rust, Serenity crate, Tokio crate
+- **Stack:** Rust, Serenity, Tokio
 - **Link:** [Source code](https://github.com/Progzerek/termux-minecraft-manager)
 
 ## Activity
@@ -29,3 +29,8 @@ A neoforge server manager specificaly made for termux, with discord integration
 [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Progzerek&theme=dark)](https://git.io/streak-stats)
 
 [![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Progzerek&theme=github-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+## Contact
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/YOUR_DISCORD_ID)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
