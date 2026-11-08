@@ -1,7 +1,10 @@
 # Progzerek
 
-IT student from Slovakia. I build full-stack projects, but backend is where I like to work.
+IT student from Slovakia. I built full-stack projects, but backend is where I like to work.
 
+**Contact:**
+![Discord](https://discord.com/users/997916524666945676)
+## Stack
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -28,8 +31,6 @@ A NeoForge server manager specifically built for Termux, with Discord integratio
 
 [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Progzerek&theme=dark)](https://git.io/streak-stats)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Progzerek&layout=compact&langs_count=8&theme=github_dark" alt="Top languages" />
+
 [![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Progzerek&theme=github-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
-## Contact
-
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/997916524666945676)
