@@ -30,7 +30,3 @@ A NeoForge server manager specifically built for Termux, with Discord integratio
 ## Activity
 
 [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Progzerek&theme=dark)](https://git.io/streak-stats)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Progzerek&layout=compact&langs_count=8&theme=github_dark" alt="Top languages" />
-
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Progzerek&theme=github-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
