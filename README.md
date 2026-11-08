@@ -14,21 +14,15 @@ IT student in Slovakia. I build full-stack projects, but backend is where I like
 ### ZoneSync
 An Overwolf app that dynamically lowers your music volume while you play CS2.
 
-- Stack: [TECH USED]
-- Status: [released / in testing / in development]
-- Link: [LINK]
+- **Stack:** TypeScript, HTML, CSS, Overwolf GEP api
+- **Status:** Currently live on [OverWolf.com](https://www.overwolf.com/app/progzerek-zonesync)
+- **Website:** [Project info](https://progzerek.github.io/zonesync-info/)
 
-### [PROJECT NAME]
-[One-line description]
+### Minescraft Server Manager
+A neoforge server manager specificaly made for termux, with discord integration
 
-- Stack: [TECH USED]
-- Link: [LINK]
-
-### [PROJECT NAME]
-[One-line description]
-
-- Stack: [TECH USED]
-- Link: [LINK]
+- **Stack:** Rust, Serenity crate, Tokio crate
+- **Link:** [Source code](https://github.com/Progzerek/termux-minecraft-manager)
 
 ## Activity
 
